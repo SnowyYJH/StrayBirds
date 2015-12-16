@@ -65,8 +65,8 @@ nav:
 
 #Author config
 author:
-    name: minixalpha
-    email: xkzbeta@outlook.comment
+    name:yujinhui
+    email: 1424842169@qq.com
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 yujinhui
     detailIntro:
@@ -110,7 +110,7 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: minixalpha
+  id: yujinhui
 
 
 #################################### global configure #######################################
